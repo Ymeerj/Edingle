@@ -1,0 +1,2 @@
+# Edingle
+Pinterest Pin Manager
